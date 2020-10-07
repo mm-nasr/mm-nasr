@@ -17,7 +17,11 @@ Welcome to my profile. You'll find a mix of a variety of projects in the followi
 
 * Reinforcement Learning
 
-* I’m currently learning more about Reinforcement Learning and DQL
+* I’m currently learning more about Reinforcement Learning and DQL and looking forward to applying them to ground and aerial robotics!
+
+Educational Backgroung:
+* BSc in Aerospace Engineering from __[Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en)__
+* MASc in Computer Engineering from __[The University of Waterloo](https://uwaterloo.ca/)__
 
 Reach me on:
 1. __[LinkedIn Profile](https://www.linkedin.com/in/mahmoud-nasr-/)__: mahmoud-nasr-
