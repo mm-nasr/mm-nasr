@@ -6,7 +6,7 @@ My experience and knowledge spans the following topics:
 
 * Modeling and Control
 
-* Orbital Mechanics (__[sample](https://github.com/mm-nasr/orbital_maneuver)__)
+* Orbital Mechanics ([sample](https://github.com/mm-nasr/orbital_maneuver))
 
 * Robotics (ROS, Python, C++, IoT)
   1. Multi-robot SLAM
@@ -16,9 +16,9 @@ My experience and knowledge spans the following topics:
   1. State Estimation: EKF, UKF
   1. Control: PID, MPC, state-feedback, geometric control, optimal control
   1. Mission Planning: Path planning, behavioral planning
-  1. Coursera Specialization: __[Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars?#courses)__:
-      1. __[Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/7LDS6WGT6QXM)__
-      1. __[State Estimation and Sensor Fusion](https://www.coursera.org/account/accomplishments/certificate/JKLAXWYXSP9G)__
+  1. Coursera Specialization: [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars?#courses):
+      1. [Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/7LDS6WGT6QXM)
+      1. [State Estimation and Sensor Fusion](https://www.coursera.org/account/accomplishments/certificate/JKLAXWYXSP9G)
       1. Visual Perception for Self-Driving Cars
       1. Motion Planning for Self-Driving Cars: *In Progress*
 
@@ -33,13 +33,13 @@ My experience and knowledge spans the following topics:
   1. Q-Learning & SARSA
   2. Deep Reinforcement Learning: DQN, DDPG, etc...
   3. Continual Learning and Catastrophic Forgetting on Atari 2600 using DQN.
-  4. Documenting my journey to mastering Reinforcement Learning __[here](https://github.com/mm-nasr/road2RL)__ (recent)
+  4. Documenting my journey to mastering Reinforcement Learning [here](https://github.com/mm-nasr/road2RL) (recent)
   
 * I’m currently learning more about Reinforcement Learning and DQL and looking forward to applying them to ground and aerial robotics!
 
 Educational Background:
-* MASc in Computer Engineering from __[The University of Waterloo](https://uwaterloo.ca/)__
-* BSc in Aerospace Engineering from __[Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en)__
+* MASc in Computer Engineering from [The University of Waterloo](https://uwaterloo.ca/)
+* BSc in Aerospace Engineering from [Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en)
 
 Reach me on:
 1. LinkedIn Profile: __[mahmoud-nasr-](https://www.linkedin.com/in/mahmoud-nasr-/)__
