@@ -9,14 +9,23 @@ Welcome to my profile. You'll find a mix of a variety of projects in the followi
 * Robotics (ROS, Python, C++, IoT)
   1. Multi-robot SLAM
   2. Robot voice command
+  
+* Self Driving Vehicles
+  1. State Estimation: EKF, UKF
+  2. Control: PID, MPC, state-feedback, geometric control, 
 
 * Machine Learning (PyTorch, Tensorflow, Keras)
   1. Multi-Layer Perceptrons
   2. Convolutional Neural Networks
   3. Natural Language Processing
+  4. Generative Adversarial Networks (GANs)
+  5. Deep Reinforcement Learning
 
 * Reinforcement Learning
-
+  1. Q-Learning & SARSA
+  2. Deep Reinforcement Learning: DQN, DDPG, etc...
+  3. Documenting my journey to mastering Reinforcement Learning __[here](https://github.com/mm-nasr/road2RL)__ (recent)
+  
 * I’m currently learning more about Reinforcement Learning and DQL and looking forward to applying them to ground and aerial robotics!
 
 Educational Backgroung:
