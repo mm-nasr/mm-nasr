@@ -39,7 +39,7 @@ Educational Backgroung:
 * MASc in Computer Engineering from __[The University of Waterloo](https://uwaterloo.ca/)__
 
 Reach me on:
-1. __[LinkedIn Profile](https://www.linkedin.com/in/mahmoud-nasr-/)__: mahmoud-nasr-
+1. LinkedIn Profile: __[mahmoud-nasr-](https://www.linkedin.com/in/mahmoud-nasr-/)__
 2. :e-mail: mahmoudmnasr95@gmail.com 
 <!--
 **mm-nasr/mm-nasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
