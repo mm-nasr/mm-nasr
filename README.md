@@ -12,7 +12,13 @@ Welcome to my profile. You'll find a mix of a variety of projects in the followi
   
 * Self Driving Vehicles
   1. State Estimation: EKF, UKF
-  2. Control: PID, MPC, state-feedback, geometric control, 
+  1. Control: PID, MPC, state-feedback, geometric control, optimal control
+  1. Mission Planning: Path planning, behavioral planning
+  1. Coursera Specialization: __[Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars?#courses)__:
+      1. __[Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/7LDS6WGT6QXM)__
+      1. __[State Estimation and Sensor Fusion](https://www.coursera.org/account/accomplishments/certificate/JKLAXWYXSP9G)__
+      1. Visual Perception for Self-Driving Cars
+      1. Motion Planning for Self-Driving Cars: *In Progress*
 
 * Machine Learning (PyTorch, Tensorflow, Keras)
   1. Multi-Layer Perceptrons
