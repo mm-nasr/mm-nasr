@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my profile. You'll find a mix of a variety of projects in the following areas:
+Welcome to my profile. I'm am aspiring engineer passionate about robotics, autonomous vehicles, and artificial intelligence.
+
+My experience and knowledge spans the following topics:
 
 * Modeling and Control
 
