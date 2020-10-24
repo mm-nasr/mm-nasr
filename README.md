@@ -4,7 +4,7 @@ Welcome to my profile. You'll find a mix of a variety of projects in the followi
 
 * Modeling and Control
 
-* Orbital Mechanics (__[sample](https://github.com/mm-nasr/orbital_maneuver))
+* Orbital Mechanics (__[sample](https://github.com/mm-nasr/orbital_maneuver)__)
 
 * Robotics (ROS, Python, C++, IoT)
   1. Multi-robot SLAM
