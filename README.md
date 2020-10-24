@@ -30,7 +30,8 @@ Welcome to my profile. You'll find a mix of a variety of projects in the followi
 * Reinforcement Learning
   1. Q-Learning & SARSA
   2. Deep Reinforcement Learning: DQN, DDPG, etc...
-  3. Documenting my journey to mastering Reinforcement Learning __[here](https://github.com/mm-nasr/road2RL)__ (recent)
+  3. Continual Learning and Catastrophic Forgetting on Atari 2600 using DQN.
+  4. Documenting my journey to mastering Reinforcement Learning __[here](https://github.com/mm-nasr/road2RL)__ (recent)
   
 * I’m currently learning more about Reinforcement Learning and DQL and looking forward to applying them to ground and aerial robotics!
 
