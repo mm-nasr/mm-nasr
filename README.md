@@ -17,10 +17,13 @@ My experience and knowledge spans the following topics:
   1. Control: PID, MPC, state-feedback, geometric control, optimal control
   1. Mission Planning: Path planning, behavioral planning
   1. Coursera Specialization: [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars?#courses):
-      1. [Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/7LDS6WGT6QXM)
+      1. [Introduction to Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/CPNCYFAF5S8P)
       1. [State Estimation and Sensor Fusion](https://www.coursera.org/account/accomplishments/certificate/JKLAXWYXSP9G)
-      1. Visual Perception for Self-Driving Cars
-      1. Motion Planning for Self-Driving Cars: *In Progress*
+      1. [Visual Perception for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/672VN4HAJDFJ)
+      1. [Motion Planning for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/ZC7Z2K26B24H)
+  1. [Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/7LDS6WGT6QXM)
+  2. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/LSMHQMZGD8AN)
+
 
 * Machine Learning (PyTorch, Tensorflow, Keras)
   1. Multi-Layer Perceptrons
