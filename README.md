@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I'm am aspiring engineer passionate about robotics, autonomous vehicles, and artificial intelligence.
+Welcome to my profile. I'm an engineer passionate about robotics, autonomous vehicles, and artificial intelligence.
 
 My experience and knowledge spans the following topics:
 
